@@ -6,9 +6,9 @@ function App() {
 
   return (
     <>
-      <div>
-        <Mensaje></Mensaje>
-      </div>
+      <section>
+        <Mensaje nuevoMensaje = 'my friend!'></Mensaje>
+      </section>
     </>
   )
 }
